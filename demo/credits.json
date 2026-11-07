@@ -384,6 +384,21 @@
    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
    "page": "https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg",
    "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-1068.webp",
+   "files": [
+    "photo-1068-500.webp",
+    "photo-1068-960.webp",
+    "photo-1068.webp"
+   ],
+   "id": "1068",
+   "alt": "Small plant in a vase on a white table against a blue wall",
+   "by": "Padurariu Alexandru",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/iNmouRApXYM",
+   "source": "Unsplash"
   }
  ]
 }
