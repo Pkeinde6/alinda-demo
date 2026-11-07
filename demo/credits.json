@@ -329,6 +329,17 @@
    "licenceUrl": "https://unsplash.com/license",
    "page": "https://unsplash.com/photos/j0g8taxHZa0",
    "source": "Unsplash"
+  },
+  {
+   "file": "photo-stocksnap-photographe.webp",
+   "files": [
+    "photo-stocksnap-photographe.webp"
+   ],
+   "id": "stocksnap-CIHCANFZWS",
+   "alt": "Photographe devant une porte orange",
+   "by": "Burst",
+   "licence": "CC0",
+   "page": "https://stocksnap.io/photo/CIHCANFZWS"
   }
  ]
 }
