@@ -340,6 +340,50 @@
    "by": "Burst",
    "licence": "CC0",
    "page": "https://stocksnap.io/photo/CIHCANFZWS"
+  },
+  {
+   "file": "photo-10.webp",
+   "files": [
+    "photo-10-500.webp",
+    "photo-10-960.webp",
+    "photo-10.webp"
+   ],
+   "id": "10",
+   "alt": "Dense evergreen forest with a blue lake and distant hills beyond",
+   "by": "Paul Jarvis",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/6J--NXulQCs",
+   "source": "Unsplash"
+  },
+  {
+   "file": "photo-919-960.jpg",
+   "files": [
+    "photo-919-500.jpg",
+    "photo-919-960.jpg"
+   ],
+   "id": "919",
+   "alt": "Tall straight pine trunks above a bright green forest floor",
+   "by": "Jon Ottosson",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/JU2MgHOHDsw",
+   "source": "Unsplash"
+  },
+  {
+   "file": "photo-d88.webp",
+   "files": [
+    "photo-d88-500.webp",
+    "photo-d88-960.webp",
+    "photo-d88.webp"
+   ],
+   "id": "d88",
+   "alt": "Cream ceramic table lamp on a glossy side table, low sun throwing long shadows across a white wall",
+   "by": "LoMit",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Lamp_with_a_lampshade_illuminated_by_sunlight.jpg",
+   "source": "Wikimedia Commons"
   }
  ]
 }
