@@ -269,6 +269,66 @@
    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
    "page": "https://commons.wikimedia.org/wiki/File:Cozy_bed_by_a_windowsill_(Unsplash).jpg",
    "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-887.webp",
+   "files": [
+    "photo-887-500.webp",
+    "photo-887-960.webp",
+    "photo-887.webp"
+   ],
+   "id": "887",
+   "alt": "White apartment block facade with repeating balconies and windows",
+   "by": "Roman Kraft",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/7sMHTVJ0OTA",
+   "source": "Unsplash"
+  },
+  {
+   "file": "photo-618.webp",
+   "files": [
+    "photo-618-500.webp",
+    "photo-618-960.webp",
+    "photo-618.webp"
+   ],
+   "id": "618",
+   "alt": "Curving glass and steel lattice roof in black and white",
+   "by": "Mika Ruusunen",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/ypVM8PnygUo",
+   "source": "Unsplash"
+  },
+  {
+   "file": "photo-743.webp",
+   "files": [
+    "photo-743-500.webp",
+    "photo-743-960.webp",
+    "photo-743.webp"
+   ],
+   "id": "743",
+   "alt": "Narrow wedge-shaped building corner seen from below against a teal sky",
+   "by": "Anthony DELANOIX",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/Aa8_X_YgrO4",
+   "source": "Unsplash"
+  },
+  {
+   "file": "photo-893.webp",
+   "files": [
+    "photo-893-500.webp",
+    "photo-893-960.webp",
+    "photo-893.webp"
+   ],
+   "id": "893",
+   "alt": "Curved latticed building facade forming sweeping lines, black and white",
+   "by": "Samuel Zeller",
+   "licence": "Unsplash License",
+   "licenceUrl": "https://unsplash.com/license",
+   "page": "https://unsplash.com/photos/j0g8taxHZa0",
+   "source": "Unsplash"
   }
  ]
 }
